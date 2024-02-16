@@ -11,7 +11,7 @@ Um estudante universitário no último semestre do curso de Análise e Desenvolv
 - 📚 Último semestre em Análise e Desenvolvimento de Sistemas
 - 🏫 Universidade Senac
 
-## 🚀 Portfólio em Power BI:
+## 🚀 Portfólio:
 <a href="robertolucenav@gmail.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target ="_blank" title="Portfolio de Projetos em Power BI"></a>
 
 ## 📫 Contato:
