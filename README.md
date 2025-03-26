@@ -3,7 +3,7 @@
 <h3>🔎 Sobre mim:</h3>
 
 * Sou formado em Análise e Desenvolvimento de Sitemas, e atualmente estou cursando Administração e Negócios
-* Tenho mais de 5 anos em diversas áreas de ecommerce
+* Mais de 5 anos de experiência em diversas áreas de ecommerce
 
 <h3>🛠 Conhecimentos:</h3>
 <!-- Vs Code -->
